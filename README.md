@@ -3,7 +3,7 @@
 ## Integrantes:
   * _Eduardo A. Cunha - eduardoaraujocunhaa@gmail.com_
   * _Eduardo Calandrini - eduardocalandrini@hotmail.com_
-  * _Hugo F. de Sousa - hugofagundes07@hotmail.com_
+  * _Hugo F. de Sousa - hugofagundes07@gmail.com_
   * _Lucas Mafra - chagas.lucas.mafra@gmail.com_
   * _Maria Fernanda do Carmo - mariafernandadocarmo@gmail.com_
   * _Ricardo D. Caldas - rdinizcal@gmail.com_
