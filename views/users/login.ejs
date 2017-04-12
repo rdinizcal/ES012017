@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.3.2/angular-ui-router.js"></script>
+  </head>
+  <body>
+
+	<form method="post" action="/users/elogin">
+	  	<div>
+		  	<label>Nome: </label><br>
+		  	<input type="text" name="user[name]" value="<%= user.name %>">
+		</div>
+
+	  	<div>
+		  	<label>Email: </label><br>
+		  	<input type="email" name="user[email]" value="<%= user.email %>">
+		</div>
+
+		<div>
+			<label>Senha: </label><br>
+		  	<input type="password" name="user[password]" value="<%= user.password %>">
+		</div>
+
+		<div>
+			<button type="submit">Entrar</button>
+		</div>
+	</form>
+  </body>
+</html>
